@@ -1,0 +1,12 @@
+langchain
+uvicorn
+ctransformers
+sentence-transformers
+python-box
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+faiss-cpu
+langchain_google_genai  # with the help of languagechain we will be able to access the api of google-generativeai
+pdf2image
